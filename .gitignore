@@ -1,0 +1,150 @@
+MIND-large/
+gram.tar
+wandb
+
+# DIGAT
+DIGAT/MIND-small-SAG
+DIGAT/MIND-large-SAG
+DIGAT/*.json
+DIGAT/*.pkl
+DIGAT/logs
+DIGAT/models
+DIGAT/best_model
+DIGAT/dev
+DIGAT/test
+DIGAT/configs
+DIGAT/results
+DIGAT/prediction
+DIGAT/__pycache__
+DIGAT/.vscode
+
+# Byte-compiled / optimized / DLL files
+GRAM/__pycache__/
+GRAM/*.py[cod]
+GRAM/*$py.class
+
+# C extensions
+GRAM/*.so
+
+# Distribution / packaging
+GRAM/.Python
+GRAM/build/
+GRAM/develop-eggs/
+GRAM/dist/
+GRAM/downloads/
+GRAM/eggs/
+GRAM/.eggs/
+GRAM/lib/
+GRAM/lib64/
+GRAM/parts/
+GRAM/sdist/
+GRAM/var/
+GRAM/wheels/
+GRAM/pip-wheel-metadata/
+GRAM/share/python-wheels/
+GRAM/*.egg-info/
+GRAM/.installed.cfg
+GRAM/*.egg
+GRAM/MANIFEST
+
+# Installer logs
+GRAM/pip-log.txt
+GRAM/pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+GRAM/htmlcov/
+GRAM/.tox/
+GRAM/.nox/
+GRAM/.coverage
+GRAM/.coverage.*
+GRAM/.cache
+GRAM/nosetests.xml
+GRAM/coverage.xml
+GRAM/*.cover
+GRAM/*.py,cover
+GRAM/.hypothesis/
+GRAM/.pytest_cache/
+
+# Translations
+GRAM/*.mo
+GRAM/*.pot
+
+# Django stuff:
+GRAM/*.log
+GRAM/local_settings.py
+GRAM/db.sqlite3
+GRAM/db.sqlite3-journal
+
+# Flask stuff:
+GRAM/instance/
+GRAM/.webassets-cache
+
+# Scrapy stuff:
+GRAM/.scrapy
+
+# Sphinx documentation
+GRAM/docs/_build/
+
+# PyBuilder
+GRAM/target/
+
+# Jupyter Notebook
+GRAM/.ipynb_checkpoints
+
+# IPython
+GRAM/profile_default/
+GRAM/ipython_config.py
+
+# pyenv
+GRAM/.python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+GRAM/__pypackages__/
+
+# Celery stuff
+GRAM/celerybeat-schedule
+GRAM/celerybeat.pid
+
+# SageMath parsed files
+GRAM/*.sage.py
+
+# Environments
+GRAM/.env
+GRAM/.venv
+GRAM/env/
+GRAM/venv/
+GRAM/ENV/
+GRAM/env.bak/
+GRAM/venv.bak/
+
+# Spyder project settings
+GRAM/.spyderproject
+GRAM/.spyproject
+
+# Rope project settings
+GRAM/.ropeproject
+
+# mkdocs documentation
+GRAM//site
+
+# mypy
+GRAM/.mypy_cache/
+GRAM/.dmypy.json
+GRAM/dmypy.json
+
+# Pyre type checker
+GRAM/.pyre/
+
+# Lightning logs
+GRAM/lightning_logs/
+GRAM/*/logs/
+
+# MISC
+GRAM/.DS_Store
